@@ -19,4 +19,4 @@ int sum = addition.getAddition(10, 20);
 System.out.println("Addition of two numbers: 
 " + sum); //printing results
 }
-}
+}This is demo project
